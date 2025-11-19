@@ -1,2 +1,3 @@
 # ikts41n22
-For dabalatornaya rabota
+ИКТС-41
+Угрюмов Иван Александрович
